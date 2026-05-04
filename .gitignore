@@ -1,0 +1,17 @@
+# Word documents
+*.doc
+*.docx
+~$*.docx
+~$*.doc
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
